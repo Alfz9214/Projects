@@ -3,7 +3,7 @@ const songsList = [
         name: "Jazz In Paris",
         artist: "Media Right Productions",
         src: "assets/1.mp3",
-        cover: "assets/1.jpg"
+        cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/97/26/6b972600-cfaa-b1ae-e7b2-707d4a80ee70/24UMGIM76734.rgb.jpg/247x247bb.jpg"
     },
     {
         name: "Blue Skies",
